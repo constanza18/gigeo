@@ -1,0 +1,17 @@
+// Yep
+$breakpoints: (
+    'sm': (min-width: 576px),
+    'md': (min-width: 768px),
+    'lg': (min-width: 992px),
+    'xl': (min-width: 1200px),
+);
+
+$info: #92DCE5;
+$danger: #EF6461;
+
+$theme-colors:(
+    "primary": $info,
+    "danger": $danger,
+    "warning:": black,
+)
+
